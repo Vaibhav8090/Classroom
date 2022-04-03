@@ -1,6 +1,8 @@
-![](vlogo.jpeg)
-
-# V CLASSROOM
+![](uniclass.jpeg)
+# UNICLASS 
+UNICLASS is an all-in-one place for teaching and learning. 
+* It includes features such as V-CLassroom and V-Book
+## V CLASSROOM
 
 **DESCRIPTION**
 
